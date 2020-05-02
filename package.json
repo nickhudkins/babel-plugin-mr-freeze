@@ -1,0 +1,13 @@
+{
+  "name": "mr-freeze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "jest": "^25.5.3"
+  }
+}
